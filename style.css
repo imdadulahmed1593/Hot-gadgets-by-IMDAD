@@ -1,3 +1,26 @@
 body{
     margin:0;
 }
+.container{
+    margin-bottom: 100px;
+}
+.des{
+    margin-bottom: 20px;
+}
+.des h6{
+    color: orange;
+}
+.card{
+    border:none;
+    text-align:center;
+}
+.card-footer{
+    border:none;
+    text-align:center;
+
+}
+footer{
+    text-align:center;
+    background-color: lightgray;
+    font-weight: 600;
+}
